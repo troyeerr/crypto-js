@@ -18,7 +18,8 @@
   "license": "MIT",
   "scripts": {
     "build": "grunt build",
-    "test": "grunt default"
+    "test": "grunt default",
+    "server": "grunt run server"
   },
   "main": "index.js",
   "browser": {
